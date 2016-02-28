@@ -1,6 +1,6 @@
-# wp-bootstrap-recent-vagrant
+# wp-oh-theme-vagrant
 
-This is a Vagrant configuration designed for developing the [wp-bootstrap-recent](https://github.com/Narthur/wp-bootstrap-recent) WordPress plugin.
+This is a Vagrant configuration designed for developing the [wp-oh-theme](https://github.com/OuachitaHillsMinistries/wp-oh-theme) WordPress theme.
 
 To get started, check out <http://vccw.cc/>
 
